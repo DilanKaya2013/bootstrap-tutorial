@@ -1,0 +1,13 @@
+body,#ust-bolum{
+    background-color:#ecf1f5 ;
+    color: #000;
+}
+
+
+
+header,#ana-menu{
+    background-color: #075192!important;
+}
+#ana-menu .nav-link{
+    color: #e7e7e7;
+}
